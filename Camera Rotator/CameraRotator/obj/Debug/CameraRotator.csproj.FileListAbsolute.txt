@@ -1,0 +1,33 @@
+C:\Users\HAKAN TAMBUĞA\Desktop\Camera Rotator\WindowsFormsApplication20\bin\Debug\CameraRotator.exe.config
+C:\Users\HAKAN TAMBUĞA\Desktop\Camera Rotator\CameraRotator\bin\Debug\CameraRotator.exe.config
+C:\Users\HAKAN TAMBUĞA\Desktop\Camera Rotator\CameraRotator\bin\Debug\CameraRotator.exe
+C:\Users\HAKAN TAMBUĞA\Desktop\Camera Rotator\CameraRotator\bin\Debug\CameraRotator.pdb
+C:\Users\HAKAN TAMBUĞA\Desktop\Camera Rotator\CameraRotator\bin\Debug\AForge.Math.dll
+C:\Users\HAKAN TAMBUĞA\Desktop\Camera Rotator\CameraRotator\bin\Debug\AForge.xml
+C:\Users\HAKAN TAMBUĞA\Desktop\Camera Rotator\CameraRotator\bin\Debug\AForge.Imaging.xml
+C:\Users\HAKAN TAMBUĞA\Desktop\Camera Rotator\CameraRotator\bin\Debug\AForge.Video.xml
+C:\Users\HAKAN TAMBUĞA\Desktop\Camera Rotator\CameraRotator\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\HAKAN TAMBUĞA\Desktop\Camera Rotator\CameraRotator\bin\Debug\AForge.Vision.xml
+C:\Users\HAKAN TAMBUĞA\Desktop\Camera Rotator\CameraRotator\bin\Debug\AForge.Math.xml
+C:\Users\HAKAN TAMBUĞA\Desktop\Camera Rotator\CameraRotator\obj\Debug\CameraRotator.csprojResolveAssemblyReference.cache
+C:\Users\HAKAN TAMBUĞA\Desktop\Camera Rotator\CameraRotator\obj\Debug\CameraRotator.Form1.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\Camera Rotator\CameraRotator\obj\Debug\CameraRotator.Properties.Resources.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\Camera Rotator\CameraRotator\obj\Debug\CameraRotator.csproj.GenerateResource.Cache
+C:\Users\HAKAN TAMBUĞA\Desktop\Camera Rotator\CameraRotator\obj\Debug\CameraRotator.exe
+C:\Users\HAKAN TAMBUĞA\Desktop\Camera Rotator\CameraRotator\obj\Debug\CameraRotator.pdb
+C:\Users\HAKAN TAMBUĞA\Desktop\Görüntü işleme Dersi Projesi\Camera Rotator\CameraRotator\bin\Debug\CameraRotator.exe.config
+C:\Users\HAKAN TAMBUĞA\Desktop\Görüntü işleme Dersi Projesi\Camera Rotator\CameraRotator\obj\Debug\CameraRotator.exe
+C:\Users\HAKAN TAMBUĞA\Desktop\Görüntü işleme Dersi Projesi\Camera Rotator\CameraRotator\obj\Debug\CameraRotator.pdb
+C:\Users\HAKAN TAMBUĞA\Desktop\Görüntü işleme Dersi Projesi\Camera Rotator\CameraRotator\bin\Debug\CameraRotator.exe
+C:\Users\HAKAN TAMBUĞA\Desktop\Görüntü işleme Dersi Projesi\Camera Rotator\CameraRotator\bin\Debug\CameraRotator.pdb
+C:\Users\HAKAN TAMBUĞA\Desktop\Görüntü işleme Dersi Projesi\Camera Rotator\CameraRotator\bin\Debug\AForge.Math.dll
+C:\Users\HAKAN TAMBUĞA\Desktop\Görüntü işleme Dersi Projesi\Camera Rotator\CameraRotator\bin\Debug\AForge.xml
+C:\Users\HAKAN TAMBUĞA\Desktop\Görüntü işleme Dersi Projesi\Camera Rotator\CameraRotator\bin\Debug\AForge.Imaging.xml
+C:\Users\HAKAN TAMBUĞA\Desktop\Görüntü işleme Dersi Projesi\Camera Rotator\CameraRotator\bin\Debug\AForge.Video.xml
+C:\Users\HAKAN TAMBUĞA\Desktop\Görüntü işleme Dersi Projesi\Camera Rotator\CameraRotator\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\HAKAN TAMBUĞA\Desktop\Görüntü işleme Dersi Projesi\Camera Rotator\CameraRotator\bin\Debug\AForge.Vision.xml
+C:\Users\HAKAN TAMBUĞA\Desktop\Görüntü işleme Dersi Projesi\Camera Rotator\CameraRotator\bin\Debug\AForge.Math.xml
+C:\Users\HAKAN TAMBUĞA\Desktop\Görüntü işleme Dersi Projesi\Camera Rotator\CameraRotator\obj\Debug\CameraRotator.csprojResolveAssemblyReference.cache
+C:\Users\HAKAN TAMBUĞA\Desktop\Görüntü işleme Dersi Projesi\Camera Rotator\CameraRotator\obj\Debug\CameraRotator.Form1.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\Görüntü işleme Dersi Projesi\Camera Rotator\CameraRotator\obj\Debug\CameraRotator.Properties.Resources.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\Görüntü işleme Dersi Projesi\Camera Rotator\CameraRotator\obj\Debug\CameraRotator.csproj.GenerateResource.Cache
